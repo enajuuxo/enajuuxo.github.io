@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://enajuuxo.github.io/ISW/sitemap_index.txt
+Sitemap: https://enajuuxo.github.io/OXp/sitemap_index.txt
+Sitemap: https://enajuuxo.github.io/tNO/sitemap_index.txt
+Sitemap: https://enajuuxo.github.io/vgn/sitemap_index.txt
